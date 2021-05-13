@@ -1,0 +1,3 @@
+package external.performance_fps.android
+
+rootProject.name = 'fps'

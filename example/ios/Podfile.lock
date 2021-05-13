@@ -1,0 +1,34 @@
+PODS:
+  - dev_panel (0.0.1):
+    - Flutter
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - performance_fps (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - dev_panel (from `.symlinks/plugins/dev_panel/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - performance_fps (from `.symlinks/plugins/performance_fps/ios`)
+
+EXTERNAL SOURCES:
+  dev_panel:
+    :path: ".symlinks/plugins/dev_panel/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  performance_fps:
+    :path: ".symlinks/plugins/performance_fps/ios"
+
+SPEC CHECKSUMS:
+  dev_panel: e43ee3dbf18e949ab3c6f602d1ff6570a8b5689b
+  device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  performance_fps: 6eb113a5c4e488a9df1a00fd7e6f1219bedc4cb2
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
